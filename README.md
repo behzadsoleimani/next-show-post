@@ -1,4 +1,4 @@
-This project bootstrapped with next.js and uses redux.
+This project bootstrapped with next.js and uses redux and launched as a PWA project.
 
 ## Getting Started
 
